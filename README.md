@@ -13,3 +13,9 @@ docker-compose up -d
 docker-compose down --volumes  
 ```
 (Can Use this without --volumes also if not need to remove volumes)
+
+YOU CAN USE BELOW FILES IN ANY LARAVEL PROJECT (MAKE SURE TO CHECK THE RELAVANT PHP AND LARAVEL VERSIONS)
+
+docker-compose.yml
+Dockerfile
+000-default.conf
